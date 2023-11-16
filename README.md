@@ -13,7 +13,7 @@ This project aims to conduct comprehensive data analytics on Uber datasets utili
 
 ## **System Architecture**
 
-!architecture.png
+![System Architecture](architecture.png)
 
 ## **Technologies Utilized**
 
@@ -36,7 +36,7 @@ The dataset used in this project is available here: [Uber ETL Pipeline Data](htt
 
 ## **Data Model**
 
-!data_model.png
+![Data Model](data_model.png)
 
 ## **Dashboard**
 
