@@ -30,7 +30,7 @@ The dataset used in this project is available here: [Uber ETL Pipeline Data](htt
 
 
 **Data Model:**
-![Data Model](data_model.jpeg)
+![Data Model](data_model.png)
 
 **Dashboard:**
 Explore the project's dashboard on Looker Studio: [Uber Data Analytics Dashboard](https://lookerstudio.google.com/reporting/025841b9-66c5-40a8-bf86-48ba45c4f64f)
